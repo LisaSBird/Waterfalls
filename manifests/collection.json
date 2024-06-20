@@ -1,0 +1,13 @@
+{
+  "id" : "https://LisaSBird.github.io/Waterfalls/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in LisaSBird/Waterfalls project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://LisaSBird.github.io/Waterfalls/manifests/Waterfallsmanifest2.json",
+    "label" : "Waterfalls in Flam"
+  } ]
+}
